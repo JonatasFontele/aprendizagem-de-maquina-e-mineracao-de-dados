@@ -5,17 +5,8 @@ Discipline of Machine Learning and Data Mining at the university
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 
 > ## Discipline ipynb
-* [fruit_data_with_colors_analise.ipynb](https://github.com/JonatasFontele/machine-learning-lead-dell/blob/main/fruit_data_with_colors_analise.ipynb)
-  * Introdução à Análise de Dados com Python.
-    * Demonstração da leitura de arquivos em modo texto.
-    * Demonstração da tabela e informações básicas.
-  * Análise Estatística de um Conjunto de Dados.
-    * Demonstração das estatísticas do conjunto de dados.
-    * Demonstração da manipulação de linhas e colunas.
-  * Análise e Visualização de um Conjunto de Dados.
-    * Demonstração do balanceamento dos dados.
-    * Demonstração da visualização de gráficos.
-    * Finalização da demonstração da funcionalidade básica de um notebook Jupyter.
+* [winequality.ipynb](https://github.com/JonatasFontele/Aprendizagem-de-Maquina-e-Mineracao-de-Dados)
+
  
  > ## Self study ipynb
 * [data_visualizations.ipynb](https://github.com/JonatasFontele/Aprendizagem-de-Maquina-e-Mineracao-de-Dados/blob/main/data_visualizations.ipynb)
@@ -47,8 +38,14 @@ Discipline of Machine Learning and Data Mining at the university
   * Data Visualization with Python.
     * Visualize Data with Python.
     * Get to know the MATPLOTLIB PYPLOT library.
-    * Build line, bar, scatter and boxplot charts
-    * Manipulate data to build graphs
+    * Build line, bar, scatter and boxplot charts.
+    * Manipulate data to build graphs.
   * Predicting.
     * Predicting population growth using a very simple datasus data.
     * Comparing to complex IBGE prediction through ploting.
+
+* [iris_flower_species_KNN.ipynb](https://github.com/JonatasFontele/Aprendizagem-de-Maquina-e-Mineracao-de-Dados/blob/main/iris_flower_species_KNN.ipynb)
+  * Famous Iris Flower Species Dataset.
+    * The Iris Flower Dataset involves predicting the flower species given measurements of iris flowers.
+    * It is a multiclass classification problem. The number of observations for each class is balanced.
+    * Solve it in 3 steps: Calculate Euclidean Distance; Get Nearest Neighbors (KNN) and Make Predictions.
