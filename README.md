@@ -20,6 +20,7 @@ Discipline of Machine Learning and Data Mining at the university
   * Size of x ticks and y ticks.
 
 * [human_bacteria_genome_comparison.ipynb](https://github.com/JonatasFontele/Aprendizagem-de-Maquina-e-Mineracao-de-Dados/blob/main/human_bacteria_genome_comparison.ipynb)
+  * Ccomparison of two DNA sequences: (1) human; vs. (2) bacteria.
 
 * [distance_metrics_in_machine_learning.ipynb](https://github.com/JonatasFontele/Aprendizagem-de-Maquina-e-Mineracao-de-Dados/blob/main/distance_metrics_in_machine_learning.ipynb)
   * Continuous or numerical variables.
